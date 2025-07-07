@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gwynux.ca/</loc>
+    <lastmod>2025-07-07T13:58:05-04:00</lastmod>
+  </url><url>
+    <loc>https://gwynux.ca/posts/my-first-post/</loc>
+    <lastmod>2025-07-07T13:58:05-04:00</lastmod>
+  </url><url>
+    <loc>https://gwynux.ca/posts/</loc>
+    <lastmod>2025-07-07T13:58:05-04:00</lastmod>
+  </url><url>
+    <loc>https://gwynux.ca/categories/</loc>
+  </url><url>
+    <loc>https://gwynux.ca/tags/</loc>
+  </url>
+</urlset>
